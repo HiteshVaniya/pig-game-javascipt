@@ -1,0 +1,17 @@
+{
+  "name": "pig-game-javascript",
+  "version": "1.0.0",
+  "description": "mind-games",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Hitesh Vaniya",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "sass": "^1.69.7"
+  }
+}
